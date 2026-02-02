@@ -1,4 +1,4 @@
-# Skill Icons
+# Svg Icons
 Thijs(tandpfun) 氏の 🔗[skill-icons](https://github.com/tandpfun/skill-icons) に使いたいアイコンがなかったので自作してみました。  
 <br>
 
