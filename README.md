@@ -1,8 +1,6 @@
-# Svg Icons
-Thijs(tandpfun) 氏の 🔗[skill-icons](https://github.com/tandpfun/skill-icons) に使いたいアイコンがなかったので自作してみました。  
-<br>
-
+# SVG Icons
 ## Icons List
+### Squere
 |ID / Name|Icon|
 :-:|:-:
 |`Android-Light`|<img src="icons/Android-Light.svg" alt="android-light" height="50px">|
@@ -12,3 +10,11 @@ Thijs(tandpfun) 氏の 🔗[skill-icons](https://github.com/tandpfun/skill-icons
 |`MIT_AppInventor`|<img src="icons/MITAppInventor.svg" alt="mit_appinventor" height="50px">|
 |`VBA-Light`|<img src="icons/VBA-Light.svg" alt="vba-light" width="50px">|
 |`VBA-Dark`|<img src="icons/VBA-Dark.svg" alt="vba-dark" width="50px">|
+
+### Circle
+|ID / Name|Icon|
+:-:|:-:
+|`GitHub`|<img src="icons/Github.svg" alt="github" width="50px">|
+|`pixiv`|<img src="icons/Pixiv.svg" alt="pixiv" width="50px">|
+|`Skeb`|<img src="icons/Skeb.svg" alt="skeb" width="50px">|
+|`X`|<img src="icons/X.svg" alt="x" width="50px">|
