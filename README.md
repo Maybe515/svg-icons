@@ -9,6 +9,7 @@
 |`MIT AppInventor`|<img src="icons/MITAppInventor.svg" alt="mit_appinventor" height="50px">|
 |`TourBox`|<img src="icons/TourBox.svg" alt="Toutbox" height="50px">|
 |`VBA`|<img src="icons/VBA-Light.svg" alt="vba-light" width="50px">|<img src="icons/VBA-Dark.svg" alt="vba-dark" width="50px">|
+|`XP-Pen`|<img src="icons/XPPen-Light.svg" alt="xppen-light" height="50px">|<img src="icons/XPPen-Dark.svg" alt="xppen-dark" height="50px">|
 
 ### Circle
 |ID / Name|Icon (Light)|Icon (Dark)|
