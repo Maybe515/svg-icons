@@ -1,11 +1,12 @@
 # SVG Icons
 ## Icons List
-### Squere
+### Square
 |ID / Name|Icon (Light)|Icon (Dark)|
 :-:|:-:|:-:
 |`Android`|<img src="icons/Android-Light.svg" alt="android-light" height="50px">|<img src="icons/Android-Dark.svg" alt="android-dark" height="50px">|
+|`CLIPSTUDIO PAINT`|<img src="icons/ClipStudioPaint.svg" alt="csp" height="50px">|
 |`Cmd`|<img src="icons/Cmd-Light.svg" alt="cmd-light" height="50px">|<img src="icons/Cmd-Dark.svg" alt="cmd-dark" height="50px">|
-|`MIT_AppInventor`|<img src="icons/MITAppInventor.svg" alt="mit_appinventor" height="50px">|
+|`MIT AppInventor`|<img src="icons/MITAppInventor.svg" alt="mit_appinventor" height="50px">|
 |`TourBox`|<img src="icons/TourBox.svg" alt="Toutbox" height="50px">|
 |`VBA`|<img src="icons/VBA-Light.svg" alt="vba-light" width="50px">|<img src="icons/VBA-Dark.svg" alt="vba-dark" width="50px">|
 
